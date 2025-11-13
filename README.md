@@ -1,1 +1,1 @@
-Preview: https://ahmedarain111.github.io/Etch-a-Sketch/
+Etch-a-Sketch — An interactive drawing app built with HTML, CSS, and JavaScript. Draw by hovering your mouse over the grid, change colors, clear the board, and adjust grid size for creative sketches.
